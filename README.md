@@ -99,10 +99,10 @@ The project aimed to include standard features like product browsing, filtering,
 
 The team created low-fidelity wireframes for key pages, including:
 
-    - Homepage
-    - Product listing page
-    - Product detail page
-    - Checkout flow
+- Homepage
+- Product listing page
+- Product detail page
+- Checkout flow
 
 Issues identified before the production process started included:   An issue with the filtering system ie on the basis of color, size and price range. The filters were hidden in a collapsible side bar and users were not able to notice them.
 The users were also confused by ambiguous buttons like "Proceed" on the checkout page, unsure if it meant "Go to Payment" or "Review Order."
